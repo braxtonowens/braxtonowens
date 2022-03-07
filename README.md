@@ -1,0 +1,5 @@
+- C. Braxton Owens
+- Physics PhD Student at Brigham Young University 
+- Advisors: Gus Hart, Eric Homer
+- Computational Materials Science, Machine learning
+- cbraxtonowens@gmail.com
