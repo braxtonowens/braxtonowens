@@ -1,5 +1,5 @@
 - C. Braxton Owens
 - Computer Science PhD Student at Brigham Young University 
 - Advisors: Gus Hart, Eric Homer, Bryan Morse
-- Computational Materials Science, Machine learning
+- Computational Materials Science, Computer Vision
 - cbraxtonowens@gmail.com
