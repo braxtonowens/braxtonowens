@@ -1,4 +1,4 @@
-- [C. Braxton Owens](braxtonowens.github.io)
+- [braxtonowens.github.io](https://braxtonowens.github.io/)
 - Computer Science PhD Student at Brigham Young University 
 - Advisors: Gus Hart, Eric Homer, Bryan Morse
 - Computational Materials Science, Computer Vision
