@@ -1,5 +1,5 @@
 - [braxtonowens.github.io](https://braxtonowens.github.io/)
 - Computer Science PhD Student at Brigham Young University 
 - Advisors: Gus Hart, Eric Homer, Bryan Morse
-- Computational Materials Science, Computer Vision
+- Computational Materials Science, Computer Vision, CryoET
 - cbraxtonowens@gmail.com
